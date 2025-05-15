@@ -107,3 +107,4 @@ C:\Users\91987\Documents\DockerApps\SimpleWebApp\obj\Debug\net8.0\SimpleWebApp.c
 C:\Users\91987\Documents\DockerApps\SimpleWebApp\obj\Debug\net8.0\SimpleWe.9DDE867E.Up2Date
 C:\Users\91987\Documents\DockerApps\SimpleWebApp\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\91987\Documents\DockerApps\SimpleWebApp\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\91987\Documents\DockerApps\SimpleWebApp\obj\Debug\net8.0\SimpleWebApp.sourcelink.json
